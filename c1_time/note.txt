@@ -1,0 +1,4 @@
+时间：sys/timeb.h
+获取当前时间 ftime(struct timeb *)
+%ld long
+%lf double
