@@ -1,0 +1,5 @@
+1, List实现	
+2, SetA, SetB A = A 并 B
+3, !SetA -> SetA (去重)
+4, 先排序再去重
+5，归并有序表

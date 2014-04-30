@@ -1,0 +1,5 @@
+1, char[] a = "abc" 后面有\0
+	然后再char *b = a
+	strcpy(a, src）才能用
+	char *a = "abc" 不行
+	或者char a[][10] = {"abc", "ad", "ad"};
