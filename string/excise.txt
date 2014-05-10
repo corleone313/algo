@@ -1,0 +1,17 @@
+1, 实现基本操作
+	StrAssign
+	StrCopy
+	IsEmtpyStr
+	DestroyStr
+	StrLength
+	Concat//连接两个串
+	StrCmpare
+	SubStr
+	Join
+2, 实现串的堆表示
+	{
+		char *head;
+		int charLength;
+		int charSize;
+		char *tail;
+	}
